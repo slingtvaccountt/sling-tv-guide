@@ -2,7 +2,11 @@ site_name: Sling TV Guide
 
 site_description: Sling TV login help, account support, password reset, streaming problems, app errors, device troubleshooting and activation guides.
 
-site_url: 
+site_url:
+
+theme:
+  name: mkdocs
+  custom_dir: overrides
 
 extra:
   keywords: Sling TV login, Sling TV account login, Sling TV password reset, Sling TV errors, Sling TV not working, Sling TV activation, Sling TV support, Sling TV app problems, Sling TV streaming problems
