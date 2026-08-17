@@ -1,0 +1,36 @@
+site_name: Sling TV Guide
+
+site_description: Sling TV login help, account support, password reset, streaming problems, app errors, device troubleshooting and activation guides.
+
+site_url: 
+
+extra:
+  keywords: Sling TV login, Sling TV account login, Sling TV password reset, Sling TV errors, Sling TV not working, Sling TV activation, Sling TV support, Sling TV app problems, Sling TV streaming problems
+
+nav:
+  - Home: index.md
+
+  - Sling TV Login:
+      - Login Guide: sling-tv-login.md
+
+  - Sling TV Errors & Problems:
+      - Common Errors: sling-tv-errors.md
+
+  - Account & Support:
+      - Account Help: account-help.md
+      - Password Help: password-help.md
+      - Billing & Subscription: billing-subscription.md
+
+  - Streaming Problems:
+      - Sling TV Not Working: sling-tv-not-working.md
+      - Buffering Problems: sling-tv-buffering.md
+      - Playback Problems: sling-tv-playback.md
+
+  - App & Device Help:
+      - Sling TV App: sling-tv-app.md
+      - Roku Help: sling-tv-roku.md
+      - Fire TV Help: sling-tv-fire-tv.md
+      - Smart TV Help: sling-tv-smart-tv.md
+
+  - Activation:
+      - Sling TV Activation: sling-tv-activation.md
